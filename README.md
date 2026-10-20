@@ -21,7 +21,7 @@ The axion converts into an electromagnetic wave in the presence of the **geomagn
 * $|{\boldsymbol B}_{\rm a}|$ at the north and south magnetic poles and in Singapore (Fig. 8)
 * the dependence on the atmospheric conductivity model and on the upper boundary condition (Fig. 9)
 
-Default parameters: $g_{\rm a\gamma}=10^{-10}\,{\rm GeV^{-1}}$, $\rho_{\rm DM}=0.3\,{\rm GeV/cm^3}$.
+Default parameters: $g_{\rm a\gamma}=10^{-10} {\rm GeV^{-1}}$, $\rho_{\rm DM}=0.3\,{\rm GeV/cm^3}$.
 
 ### `DarkPhoton_B-fields_public.ipynb`
 
