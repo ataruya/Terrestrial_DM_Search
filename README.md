@@ -2,7 +2,7 @@
 
 Jupyter notebooks that reproduce the theoretical predictions in our papers on searching for ultralight dark matter with low-frequency terrestrial magnetic fields.
 
-Ultralight dark matter, either axions or dark photons, induces an oscillating magnetic field in the cavity between the Earth's surface and the ionosphere. The signal is a narrow line at the frequency $f \simeq 0.24\,{\rm Hz}\,(m/10^{-15}\,{\rm eV})$, in the extremely low frequency (ELF) band. Its amplitude depends on how the electromagnetic waves propagate through the conducting atmosphere. Both notebooks compute it with a multi-step treatment: the atmosphere is divided into thin layers of constant conductivity, and the solutions are matched layer by layer.
+Ultralight dark matter, either axions or dark photons, induces an oscillating magnetic field in the cavity between the Earth's surface and the ionosphere. The signal is a narrow line at the frequency $f \simeq 0.24{\rm Hz}\,(m/10^{-15}\,{\rm eV})$, in the extremely low frequency (ELF) band. Its amplitude depends on how the electromagnetic waves propagate through the conducting atmosphere. Both notebooks compute it with a multi-step treatment: the atmosphere is divided into thin layers of constant conductivity, and the solutions are matched layer by layer.
 
 ## Contents
 
